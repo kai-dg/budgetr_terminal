@@ -3,6 +3,7 @@ Very basic budget tracker for people that like to use the terminal
 
 ## Setup
 Run `setup.py`
+
 Run `pip install -r requirements.txt`
 
 ## Commands
