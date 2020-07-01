@@ -20,6 +20,16 @@ Run `pip install -r requirements.txt`
 
 - `month [MONTH#]`: Displays entries for current month by default, or target month if entered
 
+## Examples
+```
+./budgetr.py addcat
+New Category Name: bills
+Description:
+>>> Added new category named Bills
+./budgetr.py add
+...
+```
+
 ## TODO
 - Distinguish between credit and cash
 - Flexible and simple command to display entries and stats
